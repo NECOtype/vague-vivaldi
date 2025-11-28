@@ -11,10 +11,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `vague.theme`
-3. Select `Vague` from the themes dropdown
+1. In Vivaldi, go to `Settings` then select `Themes`
+2. Click "Import Themes" and select the vague-vivaldi.zip file you got from this repository
+3. Click `Update` from the Theme Preview popup to apply it
 
 ## Thanks to contributors
 
-- [You, it's you!](https://github.com/<username>)
+- [NECOdes](https://github.com/NECOtype)
